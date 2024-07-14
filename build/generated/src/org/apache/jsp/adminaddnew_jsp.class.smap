@@ -1,0 +1,17 @@
+SMAP
+adminaddnew_jsp.java
+JSP
+*S JSP
+*F
++ 0 adminaddnew.jsp
+adminaddnew.jsp
+*L
+1,26:48
+27:74,2
+28:76,3
+29,2:79
+31,2:81,3
+33,5:87
+38:92,2
+39,34:94
+*E

@@ -1,0 +1,37 @@
+//details page
+.details{	
+        background-color:white;
+	opacity:0.9; 
+	padding:30px; 
+        margin-bottom: 50px;
+}
+
+.confirm  {
+    background-color:white;
+	opacity:0.9; 
+	padding:20px; 
+        margin-bottom: 50px;
+
+    display:inline-block;
+    
+}
+ul {
+  display: inline;
+  margin: 0;
+  padding: 0;
+}
+ul li {display: inline-block;}
+ul li:hover {background: #555;}
+ul li:hover ul {display: block;}
+ul li ul {
+  position: absolute;
+  width: 200px;
+  display: none;
+}
+ul li ul li { 
+  background: #555; 
+  display: block; 
+}
+ul li ul li .confirm {display:block !important;} 
+ul li ul li:hover {background: #666;}
+
